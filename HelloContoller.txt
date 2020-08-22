@@ -1,0 +1,4 @@
+@Controller
+Public String hello(){
+	return "hello";
+}
