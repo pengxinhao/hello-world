@@ -1,4 +1,4 @@
-# 日志配置
+# 日志配置更新
 logging:
   level:
     com.cattle: debug
